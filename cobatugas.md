@@ -16,6 +16,16 @@ awalnya logo itu terlihat ,dan saya akan mencoba untuk menyembunyikan nya dengan
 ![WhatsApp Image 2024-04-30 at 23 06 05 (3)](https://github.com/H-syam/coba-stegano-/assets/148841928/db647736-d361-448f-99bc-f74e02a8b810)
 
 
+![image](https://github.com/H-syam/coba-stegano-/assets/148841928/af745606-2e7e-4789-8fda-285231ea36bb)
+
+![image](https://github.com/H-syam/coba-stegano-/assets/148841928/f474231c-32c1-4122-9c6e-0ee591373ee6)
+
+
+setelah itu,saya mencoba script decode untuk menampilkan hal yang di sembunyikan seperti pesan dan logo yang telah di sembunyikan,namun yang keluar hanya pesan tersembunyi dan hasil dari logo tidak tersimpan didalam file forensik 
+
+
+
+
 
 
 
